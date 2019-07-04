@@ -1,0 +1,28 @@
+# Ignore.env file
+.env
+env
+.vscode
+.pytest_cache
+# Ignore compiled Python source files
+__pycache__/
+*.pyc
+.Ds_Store
+
+# Ignore SQLite database files
+*.sqlite3
+.idea
+venv/
+# Ignore eggs
+src/*egg-info
+hofbackend.egg-info/
+dist/
+build/
+src/hofbackend/staticfiles/
+# Ignore build and test artifacts
+artifacts
+reports
+.coverage
+
+src/*.xml
+shopmate_env/
+
