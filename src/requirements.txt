@@ -4,7 +4,7 @@ configparser==3.7.4
 cryptography==2.7
 Django==2.2.3
 django-filter==2.1.0
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 Markdown==3.1.1
 mysqlclient==1.4.1
 protobuf==3.8.0
